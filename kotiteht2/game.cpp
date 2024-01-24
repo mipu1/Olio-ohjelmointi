@@ -38,7 +38,7 @@ void Game::play(){
 }
 
 void Game::printGameResult(){
-        cout << "You guessed the right aswer = " << randomNumber << " with " << numOfGuesses + 1
+        cout << "You guessed the right answer = " << randomNumber << " with " << numOfGuesses + 1
          << " guesses." << endl;
 }
 
